@@ -1,23 +1,27 @@
+.container {
+    max-width: 900px;
+    padding: 15px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    height: 100vh;
+}
+
 .main {
-    margin-top: 30px;
-    margin-left: 40px;
+    border: 1px solid #000000;
+    border-radius: 4px;
+    padding: 30px;
+    margin-top: 30%;
 }
-.output_en::first-letter {
-    text-transform: uppercase;
+.output_en {
+    margin-bottom: 10px;
+    font-size: 22px;
 }
-
-body {
-    top: 0 !important;
-  }
-.skiptranslate {
-  display: none;
-  height: 0;
+.main__btn {
+    padding: 5px;
+    cursor: pointer;
 }
-
-.goog-tooltip {
-  display: none !important;
-}
-
 .input-text {
   border: none;
   font-size: 16px;
