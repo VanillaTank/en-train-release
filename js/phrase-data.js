@@ -73,7 +73,7 @@ const phraseData = [
         , "ru": "Буду читать?"},
     {
         " en " :  " Will I sleep?"
-        , "ru": "Я усну?"},
+        , "ru": "Я буду спать?"},
     {
         " en " :  " Will I spend?"
         , "ru": "Я потрачу?"},
@@ -214,7 +214,7 @@ const phraseData = [
         , "ru": "Ты будешь сопровождать?"},
     {
         " en " :  " Will you promise?"
-        , "ru": "Обещаешь?"},
+        , "ru": "Ты пообещаешь?"},
     {
         " en " :  " Will you have rest?"
         , "ru": "Будешь отдыхать?"},
@@ -484,7 +484,7 @@ const phraseData = [
         , "ru": "Будут отдыхать?"},
     {
         " en " :  " Will they get?"
-        , "ru": "Получат?"},
+        , "ru": "Они получат?"},
     {
         " en " :  " Will they hide?"
         , "ru": "Они прячутся?"},
@@ -532,7 +532,7 @@ const phraseData = [
         , "ru": "Он будет работать?"},
     {
         " en " :  " Will he open?"
-        , "ru": "А он откроется?"},
+        , "ru": "Он откроется?"},
     {
         " en " :  " Will he love?"
         , "ru": "Любит ли он?"},
@@ -1180,7 +1180,7 @@ const phraseData = [
         , "ru": "Падаем?"},
     {
         " en " :  " Do we miss?"
-        , "ru": "Скучаем?"},
+        , "ru": "Мы скучаем?"},
     {
         " en " :  " Do we release?"
         , "ru": "Выпустим?"},
@@ -2329,7 +2329,7 @@ const phraseData = [
         , "ru": "Она обещала?"},
     {
         " en " :  " Did she have rest?"
-        , "ru": "Отдыхала?"},
+        , "ru": "Она отдыхала?"},
     {
         " en " :  " Did she get?"
         , "ru": "Получила?"},
@@ -2449,7 +2449,7 @@ const phraseData = [
         , "ru": "Прочитаю"},
     {
         " en " :  " I will sleep"
-        , "ru": "Я усну"},
+        , "ru": "Я буду спать"},
     {
         " en " :  " I will spend"
         , "ru": "Я потрачу"},
@@ -3696,265 +3696,265 @@ const phraseData = [
         " en " :  " They cut"
         , "ru": "Режут"},
     {
-        " en " :  " He workes"
+        " en " :  " He works"
         , "ru": "Работает"},
     {
-        " en " :  " He openes"
+        " en " :  " He opens"
         , "ru": "Он открывает"},
     {
-        " en " :  " He lovees"
+        " en " :  " He loves"
         , "ru": "Любит"},
     {
-        " en " :  " He seees"
+        " en " :  " He sees"
         , "ru": "Видит"},
     {
         " en " :  " He goes"
         , "ru": "Он идет"},
     {
-        " en " :  " He knowes"
+        " en " :  " He knows"
         , "ru": "Знает"},
     {
-        " en " :  " He startes"
+        " en " :  " He starts"
         , "ru": "Он начинает"},
     {
         " en " :  " He finishes"
         , "ru": "Он заканчивает"},
     {
-        " en " :  " He closees"
+        " en " :  " He closes"
         , "ru": "Он приближается"},
     {
-        " en " :  " He livees"
+        " en " :  " He lives"
         , "ru": "Живет"},
     {
-        " en " :  " He comees"
+        " en " :  " He comes"
         , "ru": "Он идет"},
     {
-        " en " :  " He thinkes"
+        " en " :  " He thinks"
         , "ru": "Думает"},
     {
-        " en " :  " He helpes"
-        , "ru": "Помогает"},
+        " en " :  " He helps"
+        , "ru": "Он помогает"},
     {
-        " en " :  " He askes"
+        " en " :  " He asks"
         , "ru": "Он спрашивает"},
     {
-        " en " :  " He answeres"
+        " en " :  " He answers"
         , "ru": "Он отвечает"},
     {
-        " en " :  " He givees"
+        " en " :  " He gives"
         , "ru": "Он дает"},
     {
-        " en " :  " He takees"
+        " en " :  " He takes"
         , "ru": "Он берет"},
     {
-        " en " :  " He hopees"
+        " en " :  " He hopes"
         , "ru": "Он надеется"},
     {
-        " en " :  " He speakes"
+        " en " :  " He speaks"
         , "ru": "Он говорит"},
     {
-        " en " :  " He traveles"
+        " en " :  " He travels"
         , "ru": "Он странствует"},
     {
-        " en " :  " He writees"
+        " en " :  " He writes"
         , "ru": "Он пишет"},
     {
         " en " :  " He playes"
         , "ru": "Играет"},
     {
-        " en " :  " He apologizees"
+        " en " :  " He apologizes"
         , "ru": "Он извиняется"},
     {
-        " en " :  " He reades"
+        " en " :  " He reads"
         , "ru": "Читает"},
     {
-        " en " :  " He sleepes"
+        " en " :  " He sleeps"
         , "ru": "Он спит"},
     {
-        " en " :  " He spendes"
+        " en " :  " He spends"
         , "ru": "Он тратит"},
     {
         " en " :  " He accompanies"
         , "ru": "Он сопровождает"},
     {
-        " en " :  " He promisees"
+        " en " :  " He promises"
         , "ru": "Обещает"},
     {
         " en " :  " He has rest"
         , "ru": "Он отдыхает"},
     {
-        " en " :  " He getes"
-        , "ru": "He getes"},
+        " en " :  " He gets"
+        , "ru": "Он получает"},
     {
-        " en " :  " He hidees"
+        " en " :  " He hides"
         , "ru": "Он прячется"},
     {
         " en " :  " He buys"
         , "ru": "Он покупает"},
     {
-        " en " :  " He selles"
+        " en " :  " He sells"
         , "ru": "Он продает"},
     {
         " en " :  " He pays"
         , "ru": "Он платит"},
     {
-        " en " :  " He makees"
+        " en " :  " He makes"
         , "ru": "Он творит"},
     {
-        " en " :  " He choosees"
+        " en " :  " He chooses"
         , "ru": "Он выбирает"},
     {
         " en " :  " He tries"
         , "ru": "Он пытается"},
     {
-        " en " :  " He showes"
+        " en " :  " He shoes"
         , "ru": "Он показывает"},
     {
-        " en " :  " He turnes"
+        " en " :  " He turns"
         , "ru": "Он поворачивает"},
     {
-        " en " :  " He weares"
+        " en " :  " He wears"
         , "ru": "Он носит"},
     {
-        " en " :  " He falles"
+        " en " :  " He falls"
         , "ru": "Он упал"},
     {
         " en " :  " He misses"
         , "ru": "Он промахивается"},
     {
-        " en " :  " He releasees"
+        " en " :  " He releases"
         , "ru": "Он отпускает"},
     {
         " en " :  " He cutes"
         , "ru": "Он милый"},
     {
-        " en " :  " She workes"
+        " en " :  " She works"
         , "ru": "Она работает"},
     {
-        " en " :  " She openes"
+        " en " :  " She opens"
         , "ru": "Она открывает"},
     {
-        " en " :  " She lovees"
+        " en " :  " She loves"
         , "ru": "Она любит"},
     {
-        " en " :  " She seees"
+        " en " :  " She sees"
         , "ru": "Она видит"},
     {
         " en " :  " She goes"
         , "ru": "Она идет"},
     {
-        " en " :  " She knowes"
+        " en " :  " She knows"
         , "ru": "Она знает"},
     {
-        " en " :  " She startes"
+        " en " :  " She starts"
         , "ru": "Она стартует"},
     {
         " en " :  " She finishes"
         , "ru": "Она заканчивает"},
     {
-        " en " :  " She closees"
+        " en " :  " She closes"
         , "ru": "Она приближается"},
     {
-        " en " :  " She livees"
+        " en " :  " She lives"
         , "ru": "Она жива"},
     {
-        " en " :  " She comees"
+        " en " :  " She comes"
         , "ru": "Она идет"},
     {
-        " en " :  " She thinkes"
+        " en " :  " She thinks"
         , "ru": "Она думает"},
     {
-        " en " :  " She helpes"
+        " en " :  " She helps"
         , "ru": "Она помогает"},
     {
-        " en " :  " She askes"
+        " en " :  " She asks"
         , "ru": "Она спрашивает"},
     {
-        " en " :  " She answeres"
+        " en " :  " She answers"
         , "ru": "Она отвечает"},
     {
-        " en " :  " She givees"
+        " en " :  " She gives"
         , "ru": "Она дает"},
     {
-        " en " :  " She takees"
+        " en " :  " She takes"
         , "ru": "Она берет"},
     {
-        " en " :  " She hopees"
+        " en " :  " She hopes"
         , "ru": "Она надеется"},
     {
-        " en " :  " She speakes"
+        " en " :  " She speaks"
         , "ru": "Она говорит"},
     {
-        " en " :  " She traveles"
+        " en " :  " She travels"
         , "ru": "Она странствует"},
     {
-        " en " :  " She writees"
+        " en " :  " She writes"
         , "ru": "Она пишет"},
     {
-        " en " :  " She playes"
+        " en " :  " She plays"
         , "ru": "Она играет"},
     {
-        " en " :  " She apologizees"
+        " en " :  " She apologizes"
         , "ru": "Она извиняется"},
     {
-        " en " :  " She reades"
+        " en " :  " She reads"
         , "ru": "Она читает"},
     {
-        " en " :  " She sleepes"
+        " en " :  " She sleeps"
         , "ru": "Она спит"},
     {
-        " en " :  " She spendes"
+        " en " :  " She spends"
         , "ru": "Она тратит"},
     {
         " en " :  " She accompanies"
         , "ru": "Она сопровождает"},
     {
-        " en " :  " She promisees"
+        " en " :  " She promises"
         , "ru": "Она обещает"},
     {
         " en " :  " She has rest"
         , "ru": "Она отдыхает"},
     {
-        " en " :  " She getes"
-        , "ru": "She getes"},
+        " en " :  " She gets"
+        , "ru": "Она получет"},
     {
-        " en " :  " She hidees"
+        " en " :  " She hides"
         , "ru": "Она прячется"},
     {
         " en " :  " She buys"
         , "ru": "Она покупает"},
     {
-        " en " :  " She selles"
+        " en " :  " She sells"
         , "ru": "Она продает"},
     {
         " en " :  " She pays"
         , "ru": "Она платит"},
     {
-        " en " :  " She makees"
+        " en " :  " She makes"
         , "ru": "Она делает"},
     {
-        " en " :  " She choosees"
+        " en " :  " She chooses"
         , "ru": "Она выбирает"},
     {
         " en " :  " She tries"
         , "ru": "Она пытается"},
     {
-        " en " :  " She showes"
+        " en " :  " She shoes"
         , "ru": "Она показывает"},
     {
-        " en " :  " She turnes"
+        " en " :  " She turns"
         , "ru": "Она крутится"},
     {
-        " en " :  " She weares"
+        " en " :  " She wears"
         , "ru": "Она носит"},
     {
-        " en " :  " She falles"
+        " en " :  " She falls"
         , "ru": "Она упала"},
     {
         " en " :  " She misses"
         , "ru": "Она промахивается"},
     {
-        " en " :  " She releasees"
+        " en " :  " She releases"
         , "ru": "Она отпускает"},
     {
         " en " :  " She cutes"
@@ -4786,7 +4786,7 @@ const phraseData = [
         , "ru": "Я не приду"},
     {
         " en " :  " I will not think"
-        , "ru": "не буду думать"},
+        , "ru": "Не буду думать"},
     {
         " en " :  " I will not help"
         , "ru": "Не помогу"},
@@ -4804,7 +4804,7 @@ const phraseData = [
         , "ru": "Не возьму"},
     {
         " en " :  " I will not hope"
-        , "ru": "не буду надеяться"},
+        , "ru": "Не буду надеяться"},
     {
         " en " :  " I will not speak"
         , "ru": "не буду говорить"},
@@ -4825,19 +4825,19 @@ const phraseData = [
         , "ru": "Не буду читать"},
     {
         " en " :  " I will not sleep"
-        , "ru": "не буду спать"},
+        , "ru": "Не буду спать"},
     {
         " en " :  " I will not spend"
         , "ru": "Не трачу"},
     {
         " en " :  " I will not accompany"
-        , "ru": "не буду сопровождать"},
+        , "ru": "Не буду сопровождать"},
     {
         " en " :  " I will not promise"
         , "ru": "Обещать не буду"},
     {
         " en " :  " I will not have rest"
-        , "ru": "не буду отдыхать"},
+        , "ru": "Не буду отдыхать"},
     {
         " en " :  " I will not get"
         , "ru": "Не достану"},
@@ -4870,7 +4870,7 @@ const phraseData = [
         , "ru": "Не поверну"},
     {
         " en " :  " I will not wear"
-        , "ru": "не надену"},
+        , "ru": "Не надену"},
     {
         " en " :  " I will not fall"
         , "ru": "Не упаду"},
@@ -4879,7 +4879,7 @@ const phraseData = [
         , "ru": "Не скучаю"},
     {
         " en " :  " I will not release"
-        , "ru": "не отпущу"},
+        , "ru": "Не отпущу"},
     {
         " en " :  " I will not cut"
         , "ru": "не буду резать"},
@@ -4942,7 +4942,7 @@ const phraseData = [
         , "ru": "Ты не будешь говорить"},
     {
         " en " :  " You will not travel"
-        , "ru": "Не поедешь"},
+        , "ru": "Ты не будешь путешествовать"},
     {
         " en " :  " You will not write"
         , "ru": "Не пишешь"},
@@ -5389,7 +5389,7 @@ const phraseData = [
         , "ru": "Не выберет"},
     {
         " en " :  " He will not try"
-        , "ru": "Не попробует"},
+        , "ru": "Он не попробует"},
     {
         " en " :  " He will not show"
         , "ru": "Не покажет"},
@@ -5845,7 +5845,7 @@ const phraseData = [
         , "ru": "Мы не думаем"},
     {
         " en " :  " We don't help"
-        , "ru": "Мы не поможем"},
+        , "ru": "Мы не помогаем"},
     {
         " en " :  " We don't ask"
         , "ru": "Мы не спрашиваем"},
@@ -6118,10 +6118,10 @@ const phraseData = [
         , "ru": "Он не отвечает"},
     {
         " en " :  " He doesn't give"
-        , "ru": "Не дает"},
+        , "ru": "Он не дает"},
     {
         " en " :  " He doesn't take"
-        , "ru": "Не берет"},
+        , "ru": "Он не берет"},
     {
         " en " :  " He doesn't hope"
         , "ru": "Он не надеется"},
@@ -6850,7 +6850,7 @@ const phraseData = [
         , "ru": "Не повернули"},
     {
         " en " :  " They didn't wear"
-        , "ru": "Не носили"},
+        , "ru": "Они не носили"},
     {
         " en " :  " They didn't fall"
         , "ru": "Не упали"},
@@ -6991,7 +6991,7 @@ const phraseData = [
         , "ru": "Не промахнулся"},
     {
         " en " :  " He didn't release"
-        , "ru": "Не отпускал"},
+        , "ru": "Он не отпускал"},
     {
         " en " :  " He didn't cut"
         , "ru": "Не резал"},
