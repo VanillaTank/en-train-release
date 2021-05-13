@@ -1390,7 +1390,7 @@ const phraseData = [
         , "ru": "Он извиняется?"},
     {
         " en " :  " Does he read?"
-        , "ru": "Читает?"},
+        , "ru": "Он читает?"},
     {
         " en " :  " Does he sleep?"
         , "ru": "Он спит?"},
@@ -1723,7 +1723,7 @@ const phraseData = [
         , "ru": "Вы открыли?"},
     {
         " en " :  " Did you love?"
-        , "ru": "Вы любили?"},
+        , "ru": "Ты любил?"},
     {
         " en " :  " Did you see?"
         , "ru": "Вы видели?"},
@@ -1897,7 +1897,7 @@ const phraseData = [
         , "ru": "Мы дали?"},
     {
         " en " :  " Did we take?"
-        , "ru": "Взяли?"},
+        , "ru": "Мы взяли?"},
     {
         " en " :  " Did we hope?"
         , "ru": "Мы надеялись?"},
@@ -1987,7 +1987,7 @@ const phraseData = [
         , "ru": "Открылись?"},
     {
         " en " :  " Did they love?"
-        , "ru": "Любили?"},
+        , "ru": "Они любили?"},
     {
         " en " :  " Did they see?"
         , "ru": "Они видели?"},
@@ -2029,7 +2029,7 @@ const phraseData = [
         , "ru": "Давали?"},
     {
         " en " :  " Did they take?"
-        , "ru": "Взяли?"},
+        , "ru": "Они взяли?"},
     {
         " en " :  " Did they hope?"
         , "ru": "Они надеялись?"},
@@ -4273,7 +4273,7 @@ const phraseData = [
         , "ru": "Мы подарили"},
     {
         " en " :  " We took"
-        , "ru": "Взяли"},
+        , "ru": "Мы взяли"},
     {
         " en " :  " We hope"
         , "ru": "Надеемся"},
@@ -4828,7 +4828,7 @@ const phraseData = [
         , "ru": "Не буду спать"},
     {
         " en " :  " I will not spend"
-        , "ru": "Не трачу"},
+        , "ru": "Я не буду тратить"},
     {
         " en " :  " I will not accompany"
         , "ru": "Не буду сопровождать"},
@@ -5584,7 +5584,7 @@ const phraseData = [
         , "ru": "Я не помогаю"},
     {
         " en " :  " I don't ask"
-        , "ru": "не спрашиваю"},
+        , "ru": "Не спрашиваю"},
     {
         " en " :  " I don't answer"
         , "ru": "Не отвечаю"},
@@ -6781,7 +6781,7 @@ const phraseData = [
         , "ru": "Не дали"},
     {
         " en " :  " They didn't take"
-        , "ru": "Не взяли"},
+        , "ru": "Они не взяли"},
     {
         " en " :  " They didn't hope"
         , "ru": "Не надеялись"},
