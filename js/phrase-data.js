@@ -82,7 +82,7 @@ const phraseData = [
         , "ru": "Я буду сопровождать?"},
     {
         " en " :  " Will I promise?"
-        , "ru": "Обещаю?"},
+        , "ru": "Я буду обещать?"},
     {
         " en " :  " Will I have rest?"
         , "ru": "А я отдохну?"},
@@ -247,7 +247,7 @@ const phraseData = [
         , "ru": "Покажете?"},
     {
         " en " :  " Will you turn?"
-        , "ru": "Обратитесь?"},
+        , "ru": "Вы будете поворачивать?"},
     {
         " en " :  " Will you wear?"
         , "ru": "Будешь носить?"},
@@ -409,7 +409,7 @@ const phraseData = [
         , "ru": "Увидят?"},
     {
         " en " :  " Will they go?"
-        , "ru": "Пойдут?"},
+        , "ru": "Они пойдут?"},
     {
         " en " :  " Will they know?"
         , "ru": "Будут ли они знать?"},
@@ -577,7 +577,7 @@ const phraseData = [
         , "ru": "Он даст?"},
     {
         " en " :  " Will he take?"
-        , "ru": "Возьмёт?"},
+        , "ru": "Он возьмёт?"},
     {
         " en " :  " Will he hope?"
         , "ru": "Будет ли он надеяться?"},
@@ -631,7 +631,7 @@ const phraseData = [
         , "ru": "Он заплатит?"},
     {
         " en " :  " Will he make?"
-        , "ru": "Сделает?"},
+        , "ru": "Он сделает?"},
     {
         " en " :  " Will he choose?"
         , "ru": "Он выберет?"},
@@ -709,7 +709,7 @@ const phraseData = [
         , "ru": "Она отдаст?"},
     {
         " en " :  " Will she take?"
-        , "ru": "А возьмет?"},
+        , "ru": "Она возьмет?"},
     {
         " en " :  " Will she hope?"
         , "ru": "Будет ли она надеяться?"},
@@ -763,7 +763,7 @@ const phraseData = [
         , "ru": "Она заплатит?"},
     {
         " en " :  " Will she make?"
-        , "ru": "Сделает?"},
+        , "ru": "Она сделает?"},
     {
         " en " :  " Will she choose?"
         , "ru": "Она выберет?"},
@@ -880,7 +880,7 @@ const phraseData = [
         , "ru": "Отдыхаю?"},
     {
         " en " :  " Do I get?"
-        , "ru": "Понятно?"},
+        , "ru": "Я получаю?"},
     {
         " en " :  " Do I hide?"
         , "ru": "Я спрячусь?"},
@@ -895,7 +895,7 @@ const phraseData = [
         , "ru": "Я заплачу?"},
     {
         " en " :  " Do I make?"
-        , "ru": "Сделать?"},
+        , "ru": "Я делаю?"},
     {
         " en " :  " Do I choose?"
         , "ru": "Я выбираю?"},
@@ -922,7 +922,7 @@ const phraseData = [
         , "ru": "Выпустить?"},
     {
         " en " :  " Do I cut?"
-        , "ru": "Я разрежу?"},
+        , "ru": "Я режу?"},
     {
         " en " :  " Do you work?"
         , "ru": "Ты работаешь?"},
@@ -1147,7 +1147,7 @@ const phraseData = [
         , "ru": "Получаем?"},
     {
         " en " :  " Do we hide?"
-        , "ru": "Прячемся?"},
+        , "ru": "мы прячемся?"},
     {
         " en " :  " Do we buy?"
         , "ru": "А мы покупаем?"},
@@ -1939,7 +1939,7 @@ const phraseData = [
         , "ru": "Поняли?"},
     {
         " en " :  " Did we hide?"
-        , "ru": "Мы спрятались?"},
+        , "ru": "Мы прятались?"},
     {
         " en " :  " Did we buy?"
         , "ru": "Мы купили?"},
@@ -2074,7 +2074,7 @@ const phraseData = [
         , "ru": "Они прятались?"},
     {
         " en " :  " Did they buy?"
-        , "ru": "Купили?"},
+        , "ru": "Они купили?"},
     {
         " en " :  " Did they sell?"
         , "ru": "Продавали?"},
@@ -2119,7 +2119,7 @@ const phraseData = [
         , "ru": "Открыл?"},
     {
         " en " :  " Did he love?"
-        , "ru": "Любил?"},
+        , "ru": "Он любил?"},
     {
         " en " :  " Did he see?"
         , "ru": "Он видел?"},
@@ -2458,7 +2458,7 @@ const phraseData = [
         , "ru": "буду сопровождать"},
     {
         " en " :  " I will promise"
-        , "ru": "Обещаю"},
+        , "ru": "Пообещаю"},
     {
         " en " :  " I will have rest"
         , "ru": "Отдохну"},
@@ -2854,7 +2854,7 @@ const phraseData = [
         , "ru": "Они будут сопровождать"},
     {
         " en " :  " They will promise"
-        , "ru": "Пообещают"},
+        , "ru": "Они пообещают"},
     {
         " en " :  " They will have rest"
         , "ru": "Отдохнут"},
@@ -3250,7 +3250,7 @@ const phraseData = [
         , "ru": "Сопровождаю"},
     {
         " en " :  " I promise"
-        , "ru": "обещаю"},
+        , "ru": "Я обещаю"},
     {
         " en " :  " I have rest"
         , "ru": "Отдыхаю"},
@@ -3520,7 +3520,7 @@ const phraseData = [
         , "ru": "Отдыхаем"},
     {
         " en " :  " We get"
-        , "ru": "Получаем"},
+        , "ru": "Мы получаем"},
     {
         " en " :  " We hide"
         , "ru": "Мы прячемся"},
@@ -3697,7 +3697,7 @@ const phraseData = [
         , "ru": "Режут"},
     {
         " en " :  " He works."
-        , "ru": "Работает"},
+        , "ru": "Он работает"},
     {
         " en " :  " He opens."
         , "ru": "Он открывает"},
@@ -3759,7 +3759,7 @@ const phraseData = [
         " en " :  " He writes"
         , "ru": "Он пишет"},
     {
-        " en " :  " He playes"
+        " en " :  " He plays"
         , "ru": "Играет"},
     {
         " en " :  " He apologizes"
@@ -4318,7 +4318,7 @@ const phraseData = [
         , "ru": "Мы спрятались"},
     {
         " en " :  " We bought"
-        , "ru": "Купили"},
+        , "ru": "Мы купили"},
     {
         " en " :  " We sold"
         , "ru": "Мы продали"},
@@ -4450,7 +4450,7 @@ const phraseData = [
         , "ru": "Они спрятались"},
     {
         " en " :  " They bought"
-        , "ru": "Купили"},
+        , "ru": "Они купили"},
     {
         " en " :  " They sold"
         , "ru": "Продали"},
@@ -4582,7 +4582,7 @@ const phraseData = [
         , "ru": "Он спрятался"},
     {
         " en " :  " He bought"
-        , "ru": "Купил"},
+        , "ru": "Он купил"},
     {
         " en " :  " He sold"
         , "ru": "Продал"},
@@ -4945,7 +4945,7 @@ const phraseData = [
         , "ru": "Ты не будешь путешествовать"},
     {
         " en " :  " You will not write"
-        , "ru": "Не пишешь"},
+        , "ru": "Ты не будешь писать"},
     {
         " en " :  " You will not play"
         , "ru": "Ты не будешь играть"},
@@ -5011,7 +5011,7 @@ const phraseData = [
         , "ru": "Не промахнешься"},
     {
         " en " :  " You will not release"
-        , "ru": "Не отпустишь"},
+        , "ru": "ты не выпустишь"},
     {
         " en " :  " You will not cut"
         , "ru": "Не станешь резать"},
@@ -5284,7 +5284,7 @@ const phraseData = [
         , "ru": "Не пойдет"},
     {
         " en " :  " He will not open"
-        , "ru": "Он не откроется"},
+        , "ru": "Он не откроет"},
     {
         " en " :  " He will not love"
         , "ru": "Не полюбит"},
@@ -5371,7 +5371,7 @@ const phraseData = [
         , "ru": "Не достанет"},
     {
         " en " :  " He will not hide"
-        , "ru": "Не скроет"},
+        , "ru": "Он не скроет"},
     {
         " en " :  " He will not buy"
         , "ru": "Не купит"},
@@ -6181,7 +6181,7 @@ const phraseData = [
         , "ru": "Он не выбирает"},
     {
         " en " :  " He doesn't try"
-        , "ru": "Не пытается"},
+        , "ru": "Он не пытается"},
     {
         " en " :  " He doesn't show"
         , "ru": "Не показывает"},
@@ -6424,7 +6424,7 @@ const phraseData = [
         , "ru": "Я не отдыхал"},
     {
         " en " :  " I didn't get"
-        , "ru": "Не понял"},
+        , "ru": "Я не получил"},
     {
         " en " :  " I didn't hide"
         , "ru": "Я не скрывался"},
@@ -6556,7 +6556,7 @@ const phraseData = [
         , "ru": "Ты не отдыхал"},
     {
         " en " :  " You didn't get"
-        , "ru": "Вы не поняли"},
+        , "ru": "Вы не получили"},
     {
         " en " :  " You didn't hide"
         , "ru": "Ты не прятался"},
@@ -6688,7 +6688,7 @@ const phraseData = [
         , "ru": "Мы не отдыхали"},
     {
         " en " :  " We didn't get"
-        , "ru": "Не поняли"},
+        , "ru": "Мы не получили"},
     {
         " en " :  " We didn't hide"
         , "ru": "Мы не прятались"},
@@ -6703,7 +6703,7 @@ const phraseData = [
         , "ru": "Мы не платили"},
     {
         " en " :  " We didn't make"
-        , "ru": "Не сделали"},
+        , "ru": "Мы не сделали"},
     {
         " en " :  " We didn't choose"
         , "ru": "Не мы выбирали"},
@@ -6835,7 +6835,7 @@ const phraseData = [
         , "ru": "Не заплатили"},
     {
         " en " :  " They didn't make"
-        , "ru": "Не сделали"},
+        , "ru": "Они не сделали"},
     {
         " en " :  " They didn't choose"
         , "ru": "Не выбирали"},
@@ -6952,7 +6952,7 @@ const phraseData = [
         , "ru": "Он не отдыхал"},
     {
         " en " :  " He didn't get"
-        , "ru": "Не понял"},
+        , "ru": "Он не получил"},
     {
         " en " :  " He didn't hide"
         , "ru": "Он не скрывался"},
@@ -7084,7 +7084,7 @@ const phraseData = [
         , "ru": "Она не отдыхала"},
     {
         " en " :  " She didn't get"
-        , "ru": "Она не поняла"},
+        , "ru": "Она не получила"},
     {
         " en " :  " She didn't hide"
         , "ru": "Она не пряталась"},
