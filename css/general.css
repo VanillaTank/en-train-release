@@ -7,20 +7,6 @@ html {
     padding: 0;
 }
 
-a {
-    text-decoration: none;
-    color: inherit;
-}
-
-ul, li { list-style: none; }
-
-
-img {
-    max-width: 100%;
-    height: auto;
-}
-
-  
 body {
     color: #000000;
     font-size: 20px;

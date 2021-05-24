@@ -10,8 +10,6 @@ function init () {
   const btnCheckWord = document.querySelector('#btnCheckWord');
   const el = document.getElementById('input');
 
-
-
   createNewText ();
 
   btnNewWord.addEventListener('click', createNewText);
@@ -21,15 +19,11 @@ function init () {
   })
 
 
-
-//------------------------------------------------------------
   function createNewText () {
     let enText = phraseData[Math.floor(Math.random() * phraseData.length)]
     outputEn.textContent = enText["ru"];
     el.value = enText[" en "];
     el.classList.add('hidden');
   }
-
-
 }
 
